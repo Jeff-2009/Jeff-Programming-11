@@ -52,9 +52,10 @@ public class Main {
         //Expression 5
         System.out.println(((14 / 2 + 3) * Math.sin(45) + 2) - Math.pow(Math.sqrt(25), 3));
         System.out.println((10) * Math.sin(45) + 2 - Math.pow(5,3));
-        System.out.println(5 * Math.sqrt(2) + 2 - 125);
-        System.out.println(-115.9289);
-        System.out.println();
+        System.out.println((10) * (0.8509035245341184) + 2 - 125);
+        System.out.println(-114.49096475465882);
+
 
     }
 }
+
